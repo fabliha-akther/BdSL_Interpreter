@@ -73,39 +73,10 @@ BdSL_Interpreter/
 
 ![](visualization_images/f1_accuracy_comparison.png)
 
----
-
-## ⚙️ How to Run
-
-1. **Clone this repository:**
-```bash
-git clone https://github.com/your-username/BdSL_Interpreter.git
-cd BdSL_Interpreter
-```
-
-2. **Install the dependencies:**
-```bash
-pip install -r requirements.txt
-```
-
-3. **Place the dataset as shown above**
-
-4. **Train the models:**
-```bash
-python train.py
-python train_lightgbm.py
-python train_svm.py
-```
-
-5. **Generate visualizations:**
-```bash
-python plot_training_curve.py
-python plot_results.py
-```
 
 ---
 
-## 📦 Dependencies
+## Dependencies
 
 - Python 3.8+
 - PyTorch
@@ -130,7 +101,7 @@ This repository is for **academic use only**.
 
 ---
 
-##  Author
+## Author
 
 **Fabliha Akther Fairuz**  
 
