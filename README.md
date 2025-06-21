@@ -66,9 +66,6 @@ BdSL_Interpreter/
 |-----|-----|------|
 | ![](visualization_images/ANN_confusion_matrix.png) | ![](visualization_images/CNN_confusion_matrix.png) | ![](visualization_images/CNN2_confusion_matrix.png) |
 
-| LightGBM | SVM |
-|----------|-----|
-| ![](visualization_images/LightGBM_confusion_matrix.png) | ![](visualization_images/SVM_confusion_matrix.png) |
 
 ---
 
